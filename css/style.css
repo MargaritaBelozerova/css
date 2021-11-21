@@ -1,0 +1,39 @@
+body {
+  background-color: grey;
+}
+h3 {
+    text-align: center;
+    text-transform: uppercase;
+}
+.text--color {
+  color: orange;
+}
+.text {
+  font-size: 20;
+}
+.text--color-blue {
+  color: blue;
+}
+.text-transform {
+  font-size: 20;
+  color: tomato;
+  background-color: thistle;
+}
+.text--color-white {
+  color: white;
+}
+.bold {
+  font-weight: bold;
+}
+.italic {
+  font-style: italic;
+}
+.overline {
+  text-decoration: overline;
+}
+.line-through {
+  text-decoration: line-through;
+}
+.outset {
+  border-style: outset;
+}
